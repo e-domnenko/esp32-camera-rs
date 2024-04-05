@@ -1,0 +1,8 @@
+.vscode/
+.embuild/
+components_esp32.lock
+
+# Added by cargo
+
+target/
+.env
